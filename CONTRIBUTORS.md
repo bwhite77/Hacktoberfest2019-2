@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Benjamin White
+- Photo: 
+- Location: South Elgin, IL
+- Bio: I am a junior computer science major in college who is looking to further my studies in mobile application development!
+- Github: https://github.com/bwhite77
+***
